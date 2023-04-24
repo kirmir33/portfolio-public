@@ -1,0 +1,14 @@
+{
+  "name": "solana-portfolio",
+  "version": "1.0.0",
+  "description": "A simple portfolio page",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "XYZ",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
