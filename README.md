@@ -45,7 +45,7 @@ Now you can access the website at `http://localhost:8080` (or the appropriate po
 
 To add or modify projects, edit the `projects.json` file in the `data` folder. Each project should have the following properties:
 
-- `name`: Project name
+- `title`: Project name
 - `url`: Project URL
 - `shortDescription`: A short description of the project
 - `longDescription`: A long description of the project (supports Markdown)
